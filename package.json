@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/automata/noflo-stanbol.git"
+    "url": "git://github.com/noflo/noflo-stanbol.git"
   },
   "licenses": [
     {

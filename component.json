@@ -2,7 +2,7 @@
   "name": "noflo-stanbol",
   "description": "Apache Stanbol components for NoFlo.",
   "author": "Vilson Vieira <vilson@void.cc>",
-  "repo": "vilson/noflo-stanbol",
+  "repo": "noflo/noflo-stanbol",
   "version": "0.1.0",
   "keywords": [],
   "dependencies": {
