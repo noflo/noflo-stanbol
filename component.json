@@ -1,0 +1,26 @@
+{
+  "name": "noflo-stanbol",
+  "description": "Apache Stanbol components for NoFlo.",
+  "author": "Vilson Vieira <vilson@void.cc>",
+  "repo": "vilson/noflo-stanbol",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "noflo/noflo": "*"
+  },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
+  "scripts": [
+    "index.js",
+    "components/EnhanceText.coffee"
+  ],
+  "json": [
+    "component.json"
+  ],
+  "noflo": {
+    "components": {
+      "EnhanceText": "components/EnhanceText.coffee"
+    }
+  }
+}
