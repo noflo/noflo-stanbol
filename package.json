@@ -21,7 +21,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "noflo": "~0.5.11",
+    "noflo": "~0.7.5",
     "request": "~2.53.0"
   },
   "devDependencies": {
