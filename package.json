@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "noflo": "~0.5.11",
-    "request": "~2.53.0"
+    "request": "~2.74.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
