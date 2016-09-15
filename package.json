@@ -35,7 +35,7 @@
     "grunt-contrib-uglify": "~0.8.0",
     "grunt-contrib-watch": "~0.6.1",
     "grunt-noflo-manifest": "~0.1.11",
-    "grunt-noflo-browser": "^0.1.9"
+    "grunt-noflo-browser": "^1.0.1"
   },
   "keywords": [
     "noflo",
